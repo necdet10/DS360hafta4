@@ -375,4 +375,5 @@ Bu eğitim materyalini geliştirmek için:
 
 ---
 
-**🎯 Ready to start? Run `python run_demo.py` and begin your fraud detection journey!**
+**🎯 Ready to start? Run `python run_demo.py` and begin your fraud detection journey!**#   D S 3 6 0 h a f t a 4  
+ 
